@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-77.000000, -42.000000)">
+            <g id="ic_mobile" transform="translate(85.000000, 46.000000)">
+                <g id="Group" transform="translate(11.000000, 0.000000)">
+                    <rect id="Rectangle-8" stroke="#2D373C" stroke-width="2" x="0" y="0" width="46" height="64" rx="4"></rect>
+                    <path d="M0,6.5 L46,6.5" id="Line" stroke="#2D373C" stroke-linecap="square"></path>
+                    <path d="M0,53.5 L45.0111097,53.5" id="Line-Copy" stroke="#2D373C" stroke-linecap="square"></path>
+                    <circle id="Oval-3" fill="#2D373C" cx="23" cy="59" r="2"></circle>
+                </g>
+                <rect id="Rectangle-8" stroke="#2D373C" stroke-width="2" fill="#FFFFFF" x="0" y="14" width="26" height="50" rx="4"></rect>
+                <path d="M0,20.5 L25.5,20.5" id="Line" stroke="#2D373C" stroke-linecap="square"></path>
+                <path d="M0,53.5 L25.5,53.5" id="Line-Copy" stroke="#2D373C" stroke-linecap="square"></path>
+                <circle id="Oval-3" fill="#2D373C" cx="13" cy="59" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
